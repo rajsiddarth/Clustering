@@ -4,7 +4,7 @@ rm(list = ls(all.names = T))
 library(RCurl)
 
 # Reading  data
-cereals = read.table(text = getURL("https://raw.githubusercontent.com/rajsiddarth/Unsupervised_Learning_Clustering/master/Cereals.csv"),quote ="" ,sep = ",",header = T)
+cereals = read.table(text = getURL("https://raw.githubusercontent.com/rajsiddarth/Clustering/master/Cereals.csv"),quote ="" ,sep = ",",header = T)
 
 str(cereals)
 
