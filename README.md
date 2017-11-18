@@ -34,7 +34,7 @@ The data set used has the following features.The names of the columns are self e
 ## Objective
 - Cluster similar rows in the given cereals data set.
 
--Selecting k in kmeans while minimizing withinness sum of squares is shown
+- Selecting k in kmeans while minimizing withinness sum of squares is shown
 
 ## Algorithms Used
 
